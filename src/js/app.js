@@ -1,3 +1,2 @@
-// TODO: write your code here
-
-console.log('app worked');
+const game = new Game();
+game.start();
